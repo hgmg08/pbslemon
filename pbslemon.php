@@ -1,6 +1,6 @@
 <?php
 
-require('libs/pbs_functions.php');
+require('libs/pbs.php');
 require('conf/pbs_server_conf.php');
 
 abstract class PbslemonApplication extends EyeosApplicationExecutable {	
